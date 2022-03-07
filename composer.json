@@ -1,6 +1,7 @@
 {
   "name": "sphinxv1337/laravel8-salesforce",
   "description": "Laravel 8 Salesforce Force.com PHP Toolkit port",
+  "version": "1.1.0",
   "keywords": [
     "laravel",
     "salesforce",
