@@ -1,18 +1,18 @@
 {
-  "name": "davispeixoto/laravel5-salesforce",
-  "description": "Laravel 5 Salesforce Force.com PHP Toolkit port",
+  "name": "sphinxv1337/laravel8-salesforce",
+  "description": "Laravel 8 Salesforce Force.com PHP Toolkit port",
   "keywords": [
     "laravel",
     "salesforce",
     "crm",
     "force.com toolkit",
-    "laravel 5"
+    "laravel 8"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "Davis Peixoto",
-      "email": "davis.peixoto@gmail.com"
+      "name": "Deven Thakkar",
+      "email": "sphinxv1337@gmail.com"
     }
   ],
   "require": {
@@ -22,8 +22,8 @@
     "vlucas/phpdotenv": "~2.2"
   },
   "require-dev": {
-    "laravel/framework": "~5.0",
-    "phpunit/phpunit": "~4.0"
+    "laravel/framework": "^8.0",
+    "phpunit/phpunit": "^9.0"
   },
   "autoload": {
     "psr-4": {
